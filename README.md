@@ -1,6 +1,6 @@
 # House Price Predictor
 ## Dataset:
-*The Dataset used for this House Price Predictor Model is Available as zip file in kaggle it have more than 10 column and 50000 rows 
+- The Dataset used for this House Price Predictor Model is Available as zip file in kaggle it have more than 10 column and 50000 rows 
 
 Dataset link: #!/bin/bash
 curl -L -o ~/Downloads/house-price-prediction-challenge.zip\
